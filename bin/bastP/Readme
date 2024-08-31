@@ -1,0 +1,8 @@
+Ex:
+ecrire un programme java verifiant la catégorie d'un joueur selon son age
+le joueur est un Objet avec: id(static auto incrémenté), nom, prenom , age
+selon l'age vous afficher à quel catégorie appartient le joueur:
+si *** <10 minimes ***si <14 cadet** si <18 junior   ***sinon sénior /si > 40*** 
+Joueur refusé si le joueur est acceptable classé le dans le tableaux 
+de sa catégorie 
+
